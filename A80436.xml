@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copies of two petitions from the officers and souldiers of Col. Charles Fleftwoods [sic] regiment, concerning their severall grievances, one of them presented to his Excellency the Lord Gen. Fairfax. The other to the right honourable the Commons of England in Parliament assembled. Signed by the chief officers present with the said regiment. William Coleman Major. Richard Sankie Captain. Steven White Captain: Robert Standard Lieutenant. VVilliam Ducke Cornet. VVilliam VVilliams Cornet.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80436</idno>
+            <idno type="STC">Wing C6082</idno>
+            <idno type="STC">Thomason E468_32</idno>
+            <idno type="STC">ESTC R205405</idno>
+            <idno type="EEBO-CITATION">99864801</idno>
+            <idno type="PROQUEST">99864801</idno>
+            <idno type="VID">162348</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162348)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copies of two petitions from the officers and souldiers of Col. Charles Fleftwoods [sic] regiment, concerning their severall grievances, one of them presented to his Excellency the Lord Gen. Fairfax. The other to the right honourable the Commons of England in Parliament assembled. Signed by the chief officers present with the said regiment. William Coleman Major. Richard Sankie Captain. Steven White Captain: Robert Standard Lieutenant. VVilliam Ducke Cornet. VVilliam VVilliams Cornet.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 24th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162348:1" rendition="simple:additions"/>
+            <p>THE COPIES OF TWO PETITIONS From the Officers and Souldiers of Col. CHARLES FLEETWOODS Regiment, concer<g ref="char:EOLhyphen"/>ning their ſeverall Grievances, One of them preſented to his Excellency the Lord Gen. <hi>Fairfax.</hi> The other to the Right Honourable the Commons of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> in Parliament aſſembled. Signed by the Chief Officers preſent with the ſaid Regiment.</p>
+            <list>
+               <item>
+                  <hi>William Coleman</hi> Major.</item>
+               <item>
+                  <hi>Richard Sankie</hi> Captain.</item>
+               <item>
+                  <hi>Steven White</hi> Captain:</item>
+               <item>
+                  <hi>Robert Stanard</hi> Lieutenant.</item>
+               <item>
+                  <hi>VVilliam Ducke</hi> Cornet.</item>
+               <item>
+                  <hi>VVilliam VVilliams</hi> Cornet.</item>
+            </list>
+            <p>With the Parliaments Anſwer touching their ſending down Commiſſioners upon Tueſday 24. of Octob. to conſult with his Excellency for redreſ<g ref="char:EOLhyphen"/>ſing the ſaid Grievances</p>
+            <p>LONDON Printed by JOHN CLOWES, 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:162348:2"/>
+            <pb n="1" facs="tcp:162348:2"/>
+            <head>To his Excellency the Lord FAIRFAX.</head>
+            <head type="sub">The humble Petition of the Officers and Souldiers of Colonell <hi>Fleet<g ref="char:EOLhyphen"/>woods</hi> Regiment.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners taking into their ſe<g ref="char:EOLhyphen"/>rious thoughts, the intolerable burthen which the Kingdom lyeth under by reaſon of free Quar<g ref="char:EOLhyphen"/>ter, the many ſad complaints which our eares are dayly witneſſes off, and
+<pb n="2" facs="tcp:162348:3"/>the odium which hereby reflects on your Excellency and the Army, ſomthing we are duly paid, becauſe the Country payes all thats deman<g ref="char:EOLhyphen"/>ded of them, and that we are neglec<g ref="char:EOLhyphen"/>tive of our duties in not diſcharging our quarters, as likewiſe conſidering the great inconveniences that may enſue; both the Kingdom and the Souldiery being impatient under this unſupportable expreſsion. We could not longer delay to uſe our endea<g ref="char:EOLhyphen"/>vours for redreſſe.</p>
+            <p>Your petitioners therefore humbly pray that your Excellency will be pleaſed to caſt your eye on this annexed petition, and after peruſuall thereof, to repreſent it for us to the Parliament in ſuch man<g ref="char:EOLhyphen"/>ner as your Excellency ſhall judge meet.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>William Coleman</hi>
+                     </item>
+                     <item>
+                        <hi>Richard Sankie</hi>
+                     </item>
+                     <item>
+                        <hi>Steven White</hi>
+                     </item>
+                     <item>
+                        <hi>Wil: Williams</hi>
+                     </item>
+                     <item>
+                        <hi>Wil: Bucke</hi>
+                     </item>
+                     <item>
+                        <hi>Ro: Stanard:</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:162348:3"/>
+            <head>To the Right Honorable the Com<g ref="char:EOLhyphen"/>mons of England in Parliament Aſsembled.</head>
+            <head type="sub">The humble Petition of the Officers and Souldiers of Colonell <hi>Charles Fleetwoods</hi> Regiment.</head>
+            <opener>SHEWETH,</opener>
+            <p>THat your petitioners have even from the begining of your ſitting ſtood by you, uſing their utmoſt a<g ref="char:EOLhyphen"/>bllity for you in the Kingdoms preſervati<g ref="char:EOLhyphen"/>on, &amp; when they ſaw you could no longer ſubſiſt without Jeapording your lives, they did thereto ſhew much willingneſſe, not making their own termes, but with all their ſtrength did indeavour the pulling down of your and the Kingdoms enemies, which when they had through the good<g ref="char:EOLhyphen"/>neſſe of God crowning their indeavours) done, they did then expect ſome ſatisfacti<g ref="char:EOLhyphen"/>on for their ſervices and former loſſes, and a ſettlement of the Kingdom in their Birth<g ref="char:EOLhyphen"/>rights and priviledges, as the purchaſe of ſo much Blood and Treaſure, which, while they looked for contrary to their expecta<g ref="char:EOLhyphen"/>tion,
+<pb n="4" facs="tcp:162348:4"/>they found a ſecond Enemy let looſe, not only on them, but on you, ſeeking to involve the Nation in ſlavery and ruine, &amp; then again did your Petitioners (though formerly much diſcouraged &amp; neglected) freely adventuring, their lives in your de<g ref="char:EOLhyphen"/>fence, refuſing no danger nor labour, nor in your low Condition troubled you with clamorous Petitions, or requeſts though they ſaw others game by runing that unci<g ref="char:EOLhyphen"/>vill courſe, but wholly betook themſelves to the work in hand, which they ſuddenly through Gods owning of them, brought to an hopefull Iſſue, forſing thoſe that roſe up againſt you to lye at their feet, though it was not gained without the loſſe of much blood, and the lives of our dear and faith<g ref="char:EOLhyphen"/>full friends, yet to their unſpeakable grief, even in this time they found themſelves neglected, and not paid, having received but one months pay ſince the 12. of May laſt, ſo that they are conſtrained to lye upon free quarter, although much mony hath been collected for them, which hath begot<g ref="char:EOLhyphen"/>ten in the Kingdom an evill opinion of
+<pb n="5" facs="tcp:162348:4"/>them, though undeſcorned, your Petitio<g ref="char:EOLhyphen"/>ners therefore for pervention of this inſup<g ref="char:EOLhyphen"/>portable burthen of free quarter humbly pray,</p>
+            <p n="1">1. That you will pleaſe to aſsign each Regiment of the Army, the particular County out of which they are immediate<g ref="char:EOLhyphen"/>ly to receive their pay, whereby not only the great Fees to Treaſurers at Warre, a<g ref="char:EOLhyphen"/>mounting to near Ten thouſand pounds, per Annum, beſides what Committees, Clarkes, and other attendants belonging to them may be cut off, and your Petitioners freed from tedious attending, and great ex<g ref="char:EOLhyphen"/>pences, as uſually they are expoſed to. But the Countrey by the Souldiers receiving of conſtant pay, eaſed of this intolerable op<g ref="char:EOLhyphen"/>preſsion of free quarter.</p>
+            <p n="2">2. That you will under the pay of our Arrears from the 5. of Jan. laſt, according to your engagements to us out of the mo<g ref="char:EOLhyphen"/>ney already paid in for that purpoſe, that ſo we may be inabled to cloth our ſelves, as the ſeaſon of the year requires, and repair our loſſes in the late troubles.</p>
+            <pb n="6" facs="tcp:162348:5"/>
+            <p n="3">3. That ſome courſe may be taken for recruiting the Regiment with Horſes, ha<g ref="char:EOLhyphen"/>ving had none almoſt of three years, which we leave to your conſideration, And pray, &amp;c.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Robert Stanard</hi>
+                     </item>
+                     <item>
+                        <hi>Wil. Williams</hi>
+                     </item>
+                     <item>
+                        <hi>William Bucke</hi>
+                     </item>
+                     <item>
+                        <hi>Wil: Coleman</hi>
+                     </item>
+                     <item>
+                        <hi>Rich: Sankie</hi>
+                     </item>
+                     <item>
+                        <hi>Steven White.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="outcome_of_petition">
+            <p>Anſwer was returned by Mr. Scowen, Eſquire and Chairman of the Committee of the Army to this effect, viz. That the Houſe had taken their Petition into ſeri<g ref="char:EOLhyphen"/>ous conſideration. And for that purpoſe had thought upon a way to ſend down Commiſsioners of their own to conſult with his Excellency the Lord Gen. Fair<g ref="char:EOLhyphen"/>fax, whereby to take ſome ſpeedy courſe for full ſatisfaction of their deſires in their ſaid Petition.</p>
+         </div>
+         <trailer>FINIS</trailer>
+      </body>
+   </text>
+</TEI>
